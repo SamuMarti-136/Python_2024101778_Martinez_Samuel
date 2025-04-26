@@ -1,3 +1,7 @@
+'''
+Ejercicios
+'''
+
 #Pedir al usuario que ingrese dos numeros
 n1= int(input("Ingrese un numero:"))
 n2= int(input("Ingrese otro numero:"))
