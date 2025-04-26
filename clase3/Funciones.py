@@ -13,7 +13,7 @@ def divi(a,b):
 def resto(a,b):
     return a%b
 
-n1=0
+n1=2
 n2=5
 resul=sumar(n1,n2)
 print(f"La suma es: ",resul)
